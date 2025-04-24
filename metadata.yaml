@@ -1,0 +1,35 @@
+_repo: Schu0xdf-in-s-Geschaft-Der-Fall-Otto-Ei0xdfler-b-Au0xdfenseiter-der-Gesellschaft-Die-Verbrech__75925
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Csokor, Franz Theodor
+    gutenberg_agent_id: '58221'
+    url: http://www.gutenberg.org/2009/agents/58221
+  - agent_name: Leonhard, Rudolf
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '36361'
+    url: http://www.gutenberg.org/2009/agents/36361
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75925'
+language: de
+pgterms:marc904: https://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=165
+pgterms:marc905: 20211024093843csokor
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This file was produced from images generously made available by Österreichische
+  Nationalbibliothek - Austrian National Library.
+publication_note: '  $aBerlin :$bDie Schmiede, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Schuß in''s Geschäft (Der Fall Otto Eißler) : $b Außenseiter der Gesellschaft.
+  Die Verbrechen der Gegenwart. Band 10'
+url: http://www.gutenberg.org/ebooks/75925
